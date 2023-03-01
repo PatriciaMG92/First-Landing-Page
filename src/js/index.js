@@ -8,7 +8,6 @@ import "../styles/index.css";
 
 //import your own components
 import App from "./component/app.jsx";
-import Semaforo from "./component/semaforo.jsx";
 
 
 //render your react application
