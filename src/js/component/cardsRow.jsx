@@ -4,7 +4,7 @@ import Card from "./card.jsx";
 const CardsRow = () => {
     return (
         <>
-        <div className="row row-col-sm-1 row-col-lg-4">
+        <div className="row row-col-sm-1 row-col-lg-4 mb-3">
             <div className="col m-1">
                 <Card cardImageURL="https://th.bing.com/th/id/OIP.UOuqmiH3dYyfS_T0kaKwgQAAAA?pid=ImgDet&rs=1" cardTitle="INDIA" cardDescription="Country of a thousand colors where you will discover the Hindu culture through its many temples." cardButtonTitle="Discover India!"/>
             </div>
